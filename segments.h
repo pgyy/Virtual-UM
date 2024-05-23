@@ -3,7 +3,7 @@
  *                     segments.h
  *
  *     Virtual UM 
- *     Authors:  Kevin Yuan
+ *     Authors:  Kevin Yuan & Suzie Li 
  *     Date:     Nov 20, 2023 
  *
  *     summary
