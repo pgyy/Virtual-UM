@@ -3,7 +3,7 @@
  *                     segments.c
  *
  *     Virtual UM 
- *     Authors:  Kevin Yuan & Suzie Li 
+ *     Authors:  Kevin Yuan & Susie Li 
  *     Date:     Nov 20, 2023 
  *
  *     summary
